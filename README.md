@@ -93,16 +93,7 @@ manish = {
 
 <div align="center">
 
-<!-- GitHub Stats — fast-cached community fork -->
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=manish01017&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=a78bfa&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=manish01017&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=ffffff" />
 
-<br/>
-
-<!-- GitHub Trophies — very stable service -->
-<img src="https://github-profile-trophy.vercel.app/?username=manish01017&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1" />
-
-<br/>
 
 <!-- Streak stats — demolab is the most stable host -->
 <img src="https://streak-stats.demolab.com/?user=manish01017&theme=radical&hide_border=true&background=0d1117&ring=00ffcc&fire=a78bfa&currStreakLabel=00ffcc&sideLabels=ffffff&dates=888888" />
@@ -177,7 +168,9 @@ manish = {
 *"Data is the new oil — I'm here to refine it."*
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-00ffcc?style=for-the-badge&logo=linkedin&logoColor=0d1117)](https://linkedin.com/in/manishpandey0)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-a78bfa?style=for-the-badge&logo=gmail&logoColor=white)](mailto:man.pandey010787@gmail.com)
+<a href="mailto:man.pandey010787@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20an%20Email-a78bfa?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
+</a>
 
 </div>
 
