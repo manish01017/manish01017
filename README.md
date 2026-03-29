@@ -93,12 +93,19 @@ manish = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manish01017&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=a78bfa&text_color=ffffff&ring_color=00ffcc" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish01017&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=ffffff" />
+<!-- GitHub Stats — powered by stats.quine.sh (reliable alternative) -->
+<img height="180em" src="https://github-readme-stats-eight-bay.vercel.app/api?username=manish01017&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=a78bfa&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats-eight-bay.vercel.app/api/top-langs/?username=manish01017&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=ffffff" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manish01017&theme=radical&hide_border=true&background=0d1117&ring=00ffcc&fire=a78bfa&currStreakLabel=00ffcc&sideLabels=ffffff&dates=888888" />
+<!-- Streak stats — demolab is the most stable host -->
+<img src="https://streak-stats.demolab.com/?user=manish01017&theme=radical&hide_border=true&background=0d1117&ring=00ffcc&fire=a78bfa&currStreakLabel=00ffcc&sideLabels=ffffff&dates=888888" />
+
+<br/>
+
+<!-- Profile summary cards — very reliable alternative -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manish01017&theme=radical" />
 
 </div>
 
@@ -171,3 +178,4 @@ manish = {
 
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
