@@ -10,7 +10,7 @@
 
 <!-- Social badges — email links to Gmail compose -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manishpandey0-00ffcc?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/manishpandey0)
-[![Email](https://img.shields.io/badge/Email-man.pandey010787@gmail.com-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](https://mail.google.com/mail/?view=cm&to=man.pandey010787@gmail.com)
+[![Email](https://img.shields.io/badge/📧%20man.pandey010787@gmail.com-a78bfa?style=for-the-badge&logoColor=white&labelColor=0d1117)](https://mail.google.com/mail/u/0/#compose?to=man.pandey010787%40gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-manish01017-00ffcc?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/manish01017)
 ![Location](https://img.shields.io/badge/📍-Oakville%2C%20Ontario%2C%20Canada-a78bfa?style=for-the-badge&labelColor=0d1117)
 
@@ -166,9 +166,7 @@ manish = {
 *"Data is the new oil — I'm here to refine it."*
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-00ffcc?style=for-the-badge&logo=linkedin&logoColor=0d1117)](https://linkedin.com/in/manishpandey0)
-<a href="mailto:man.pandey010787@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20an%20Email-a78bfa?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
-</a>
+[![Send an Email](https://img.shields.io/badge/Send%20an%20Email-a78bfa?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#compose?to=man.pandey010787%40gmail.com)
 
 </div>
 
