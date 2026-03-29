@@ -1,18 +1,16 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=MANISH%20PANDEY&fontSize=50&fontColor=00ffcc&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%20Enthusiast%20%7C%2014%2B%20Years%20Experience&descAlignY=55&descColor=a78bfa" />
+<!-- Animated header banner — deep dark cyberpunk -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d0d2b,100:0a0a1a&height=220&section=header&text=MANISH%20PANDEY&fontSize=55&fontColor=00ffcc&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%7C%20AI%20Enthusiast%20%7C%2014%2B%20Years%20Experience&descAlignY=58&descColor=a78bfa" />
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&width=700&lines=Data+Analytics+%7C+Financial+Services;SQL+%7C+Python+%7C+AI+Automation;Snowflake+%7C+Tableau+%7C+Power+BI;Building+Intelligent+Data+Pipelines;Turning+Data+into+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<!-- Typing animation — dark background -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00FFCC&background=0D1117&center=true&vCenter=true&width=750&height=50&lines=Data+Analytics+%7C+Financial+Services;SQL+%7C+Python+%7C+AI+Automation;Snowflake+%7C+Tableau+%7C+Power+BI;Building+Intelligent+Data+Pipelines;Turning+Data+into+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<!-- Social badges -->
+<!-- Social badges — email links to Gmail compose -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manishpandey0-00ffcc?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/manishpandey0)
-[![Email](https://img.shields.io/badge/Email-man.pandey010787@gmail.com-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:man.pandey010787@gmail.com)
+[![Email](https://img.shields.io/badge/Email-man.pandey010787@gmail.com-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](https://mail.google.com/mail/?view=cm&to=man.pandey010787@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-manish01017-00ffcc?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/manish01017)
 ![Location](https://img.shields.io/badge/📍-Oakville%2C%20Ontario%2C%20Canada-a78bfa?style=for-the-badge&labelColor=0d1117)
 
@@ -175,4 +173,4 @@ manish = {
 </div>
 
 <!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0d0d2b,100:000000&height=120&section=footer" />
