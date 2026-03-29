@@ -93,9 +93,14 @@ manish = {
 
 <div align="center">
 
-<!-- GitHub Stats — powered by stats.quine.sh (reliable alternative) -->
-<img height="180em" src="https://github-readme-stats-eight-bay.vercel.app/api?username=manish01017&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=a78bfa&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats-eight-bay.vercel.app/api/top-langs/?username=manish01017&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=ffffff" />
+<!-- GitHub Stats — fast-cached community fork -->
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=manish01017&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=a78bfa&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=manish01017&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=ffffff" />
+
+<br/>
+
+<!-- GitHub Trophies — very stable service -->
+<img src="https://github-profile-trophy.vercel.app/?username=manish01017&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1" />
 
 <br/>
 
@@ -178,4 +183,3 @@ manish = {
 
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-
